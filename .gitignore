@@ -1,0 +1,4 @@
+
+# local editor config (not shared)
+.vscode
+.vscode-test
